@@ -1,9 +1,11 @@
+import warnings
+warnings.filterwarnings('ignore')
+
 import pandas as pd
+
 import numpy as np
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from sklearn.metrics import mean_absolute_percentage_error
-import warnings
-warnings.filterwarnings('ignore')
 
 # 1. READ & CLEAN DATA
 excel_path = "/mnt/37B082B36FAB9CEA/Power BI & ML/01. Financial Analysis/Data/Financial Data.xlsx"
