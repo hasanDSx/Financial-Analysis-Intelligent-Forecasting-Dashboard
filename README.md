@@ -1,4 +1,3 @@
-# Financial Analysis & Intelligent Forecasting
 ### End-to-End Business Intelligence + Machine Learning Project
 
 > An integrated system that bridges the gap between **descriptive analysis** and **predictive forecasting** — transforming 16 months of raw financial data into a fully interactive dashboard with a 6-month forward-looking forecast engine.
